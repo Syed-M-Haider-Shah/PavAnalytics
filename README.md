@@ -13,13 +13,9 @@ The project includes:
 - Explainable AI (Grad-CAM)
 - Performance Evaluation
 
-## Project Cycle
-
-![Project Cycle](figures/project_cycle.png)
-
 ## Pavement Condition Rating Scale
 
-![Pavement Condition Rating Scale](figures/rating_scale.png)
+![Pavement Condition Rating Scale](figures/Rating-Scale.jpg)
 
 ## Project Structure
 
