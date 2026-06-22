@@ -39,6 +39,26 @@ fisheye_correction/
 classification/
 explainability/
 
+## Technology Stack
+
+
+### Core Libraries
+
+| Library      | Purpose                                            |
+| ------------ | -------------------------------------------------- |
+| Python       | Core programming language                          |
+| PyTorch      | Deep learning model development and training       |
+| OpenCV       | Image processing and fisheye distortion correction |
+| NumPy        | Numerical computations                             |
+| Pandas       | Data handling and analysis                         |
+| Matplotlib   | Visualisation and result analysis                  |
+| Scikit-learn | Performance evaluation metrics                     |
+| Transformers | Swin Transformer implementation                    |
+| Pillow (PIL) | Image loading and processing                       |
+| Grad-CAM     | Explainable AI visualisations                      |
+
+
+
 ## Status
 
-Repository under development.
+The repository is currently under development. Source code, model checkpoints, installation instructions, and reproducibility documentation will be released following publication of the associated research papers.
