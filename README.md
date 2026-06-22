@@ -34,10 +34,16 @@ We have introduced an intelligent pavement rating system for cycleways, named th
 
 ## Project Structure
 
-data/
-fisheye_correction/
-classification/
-explainability/
+```text
+PavAnalytics/
+├── data/                  # Dataset and sample images
+├── fisheye_correction/    # Fisheye distortion correction pipeline
+├── classification/        # Pavement condition classification models
+├── explainability/        # Grad-CAM and XAI visualisations
+├── figures/               # Project diagrams and rating scales
+└── README.md
+```
+
 
 ## Technology Stack
 
