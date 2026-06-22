@@ -15,7 +15,7 @@ The project includes:
 
 ## Pavement Condition Rating Scale
 
-![Pavement Condition Rating Scale](figures/Rating-Scale.jpg)
+![Pavement Condition Rating Scale](figures/Rating scale.jpg)
 
 ## Project Structure
 
