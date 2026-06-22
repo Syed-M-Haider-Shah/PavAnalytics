@@ -21,7 +21,7 @@ Project Website: [https://www.paveanalytics.eu/]
 ## Publications
 
 ### Conference Papers
-
+- drg
 - M. H. Baig, J. A. Ayala Garcia, W. S. Qureshi, I. Ullah, Towards assessing cycleway pavement surface roughness using an action camera with imu and gps, in Proceedings of the 11th International Conference on Vehicle Technology and Intelligent Transport Systems - VEHITS, INSTICC, SciTePress, 2025, pp. 247–255. doi:10.5220/0013504900003941.
 
 
