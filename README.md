@@ -40,7 +40,7 @@ PavAnalytics/
 ├── fisheye_correction/    # Fisheye distortion correction pipeline
 ├── classification/        # Pavement condition classification models
 ├── explainability/        # Grad-CAM and XAI visualisations
-├── figures/               # Project diagrams and rating scales
+├── figures/               # rating-scale Rubric image
 └── README.md
 ```
 
