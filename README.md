@@ -1,6 +1,6 @@
 # PavAnalytics
 
-An Intelligent Pavement Condition Rating System for Cycle Routes and Greenways.
+Automating Pavement Condition Rating: A Deep Learning-Based Framework for Cycle Routes and Greenways.
 
 ## Overview
 
